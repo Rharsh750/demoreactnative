@@ -1,0 +1,11 @@
+{
+  "name": "MirusWorksKiosk",
+  "displayName": "Mirus Works!",
+  "version": "1.0.0",
+  "localhost": "http://localhost:9006",
+  "nativeLogoutPath": "/#/logout-native",
+  "settingsApi": "https://api.mirus.works/o/v1/app/settings",
+  "settingsToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6Im13OmF1dGg6c3RyYXRlZ3kgbXc6YXBwOnNldHRpbmdzIn0.mfm9EQfwQ4d-vkzTu4lQFnmB8ZIBqo-7jHIJI_0ZIj8",
+  "strategyApi": "https://api.mirus.works/o/v1/auth/strategy",
+  "strategyToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzY29wZSI6Im13OmF1dGg6c3RyYXRlZ3kifQ.CHMU2DLOCa5SzsO1_64dzpQXNVnRncg9k9H9atIRucw"
+}

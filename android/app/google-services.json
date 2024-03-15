@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688336383082",
+    "firebase_url": "https://mirus-works-kiosk.firebaseio.com",
+    "project_id": "mirus-works-kiosk",
+    "storage_bucket": "mirus-works-kiosk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688336383082:android:5fe5adf060fa39bc6fae13",
+        "android_client_info": {
+          "package_name": "works.mirus.kiosk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688336383082-cqa98d5ieg3v519656t2tap5d64k7125.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABDd2w8YiRNiApErQvXg4pCmOZWInXN0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688336383082-cqa98d5ieg3v519656t2tap5d64k7125.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "688336383082-gv45qf5kgdmct31ogq5bs99slbm0oos0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "works.mirus.kiosk",
+                "app_store_id": "1499588265"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
